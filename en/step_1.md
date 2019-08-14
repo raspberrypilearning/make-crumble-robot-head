@@ -1,12 +1,12 @@
 ## Introduction
 
-You will be using your coding, making and engineering skills to create a robot head with a moving mouth that opens and closes using a servo and a push rod mechanism. 
+You will be using your coding, making and engineering skills to create a robot head with a moving mouth that opens and closes using a servo and a pushrod mechanism. 
 
 Watch you fingers. It bites!
 
 ### What you will make
 
-You will make a robot head from cardboard and use a servo with a bent paper clip as a push rod to open and close the mouth controlled by your code.
+You will make a robot head from cardboard and use a servo with a bent paper clip as a pushrod to open and close the mouth controlled by your code.
 
 --- no-print ---
 ![Completed robot head project](images/completedRobotHead.gif)
@@ -48,7 +48,7 @@ Note: A hot melt glue gun makes fixing the servo into your project very easy.
 title: What you will learn
 ---
 
-+ How to make a push rod mechanism
++ How to make a pushrod mechanism
 + How to find servo angles for an open and closed mouth
 + How to make a code a moving robot mouth
 
