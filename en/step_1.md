@@ -1,19 +1,19 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+You will be using your coding, making and engineering skills to create a robot head with a moving mouth that opens and closes using a servo and a push rod mechanism. 
+
+Watch you fingers. It bites!
 
 ### What you will make
 
---- no-print ---
-Add instructions for using the embedded content here.
+You will make a robot head from cardboard and use a servo with a bent paper clip as a push rod to open and close the mouth controlled by your code.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+--- no-print ---
+![Completed robot head project](images/completedRobotHead.gif)
 --- /no-print ---
 
 --- print-only ---
-![Complete project](images/showcase_static.png)
+![Completed robot head project](images/completedRobotHead.png)
 --- /print-only ---
 
 --- collapse ---
@@ -22,17 +22,24 @@ title: What you will need
 ---
 ### Hardware
 
-+ Describe hardware here
++ A PC, Mac or Chromebook with Crumble software installed and a USB port
+
++ A Crumble controller
++ A 3xAA battery pack
++ Crocodile leads
+
++ A small 180° position servo, such as an SG90 or SG92R
++ A Crumbliser OR jumper leads
+
++ Materials to make your robot head, e.g. a small box or cardboard
++ A paperclip
++ Tools to make your robot head, e.g. glue or tape, and scissors
+
+Note: A hot melt glue gun makes fixing the servo into your project very easy.
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
++ [Crumble software](https://redfernelectronics.co.uk/crumble-software/){:target="_blank"}
 
 --- /collapse ---
 
@@ -41,8 +48,9 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Two or three learning objectives
-+ ...should go here
++ How to make a push rod mechanism
++ How to find servo angles for an open and closed mouth
++ How to make a code a moving robot mouth
 
 --- /collapse ---
 
@@ -51,8 +59,8 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/make-crumble-robot-heady/print){:target="_blank"}.
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+[Here is a link to the code solutions for this project](http://rpf.io/p/en/make-crumble-robot-head-get).
 
 --- /collapse ---
