@@ -48,9 +48,9 @@ Note: A hot melt glue gun makes fixing the servo into your project very easy.
 title: What you will learn
 ---
 
-+ How to make a pushrod mechanism
-+ How to find servo angles for an open and closed mouth
-+ How to make a code a moving robot mouth
++ How to make and use a pushrod mechanism
++ How to find servo angles needed for an open and closed mouth
++ How to code a servo powered moving robot mouth sequence
 
 --- /collapse ---
 
