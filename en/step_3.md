@@ -4,7 +4,7 @@ Let's have a look at the servo and some very important preparation before we use
 
 --- task ---
 
-Servos have detachable plastic arms that can be fixed to the rotating shaft. These arms are called 'horns'. They come in a variety of shapes for different uses. Most servos come with a small bag of different horns.
+Servos have detachable plastic arms, called 'horns', that can be fixed to the rotating shaft. The horns come in a variety of shapes for different uses. Most servos come with a small bag of different horns.
 
 ![Bag of horns](images/prepareServo_horns.png)
 
@@ -18,11 +18,19 @@ Place the horn on rotating shaft.
 
 --- task ---
 
-Test the range of the servo by moving the horn gently as far as it willgo in each direction. Don't force it.
+Test the range of the servo by moving the horn gently as far as it will go in each direction. Don't force it.
 
-When the servo is lying flat on its side,you want the horn to rotate freely from near the bottom surface right round to the other side.
+You will probably find that the servo arm can rotate past the flat position in one direction but not reach the flat position in the other.
 
-![Horn rotation range](images/prepareServo_hornRotationRange.png)
+![Horn rotation beyond flat position](images/prepareServo_hornRotationBeyondFlat.png)
+
+When the servo is lying flat on its side, you want the horn to rotate freely from horizontal 'flat' on one side...
+
+![Horn rotation range](images/prepareServo_hornFlat1.png)
+
+And rotate freely 180° to horizontal on the other side without being able to go beyond these positions as it would start hitting the inside of your box.
+
+![Horn rotation range](images/prepareServo_hornFlat2.png)
 
 --- /task ---
 
@@ -37,6 +45,8 @@ If you are very lucky, you'll get this right first time, but if not, simply adju
 Place the servo on its side and check that you did this right by checking its full rotation points again
 
 --- no-print ---
+
+Your servo should rotate from horizontal to horizontal on each side.
 
 ![Checking rotation range](images/prepareServo_CheckHornRotationRange.gif)
 
@@ -61,3 +71,5 @@ Once the horn is exactly where you want it, screw it in place to fix it.
 Note: Once the servo becomes fixed inside your project, it is very hard to get to this fixing screw.
 
 --- /task ---
+
+Now that the horn is fixed in the correct rotation position, you are ready tomake the pushrod mechanism.
