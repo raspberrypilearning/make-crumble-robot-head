@@ -20,14 +20,6 @@ Take your box, decide which end the face will be and mark the two side flaps to 
 
 --- task ---
 
-Take your box, decide which end the face will be and mark the two side flaps to be cut off.
-
-![The two side flaps](images/robotHead_sideFlaps.png)
-
---- /task ---
-
---- task ---
-
 Cut the two side flaps off using a knife or scissors.
 
 Tape or glue the top flap down to be the face above the mouth.
