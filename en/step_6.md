@@ -86,7 +86,7 @@ Reconnect your old `servo A 10 degrees`{:class="crumbleinputoutput"} block under
 
 Change the `servo A 10 degrees`{:class="crumbleinputoutput"} to `servo A `{:class="crumbleinputoutput"}`closed`{:class="crumblevariables"}` degrees`{:class="crumbleinputoutput"}.
 
-Add or duplicate blocks to `wait 1.0 seconds`{:class="crumblecontrol"} and then tell `servo A`to go to {:class="crumbleinputoutput"}`open`{:class="crumblevariables"}` degrees`{:class="crumbleinputoutput"}.
+Add or duplicate blocks to `wait 1.0 seconds`{:class="crumblecontrol"} and then tell `servo A`{:class="crumbleinputoutput"} to go to `open`{:class="crumblevariables"}` degrees`{:class="crumbleinputoutput"}.
 
 Finally, add you remaining old code, `wait 1.0 seconds`{:class="crumblecontrol"} and `servo A off`{:class="crumbleinputoutput"} at the end.
 
