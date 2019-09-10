@@ -10,7 +10,7 @@ steps:
   - title: The robot head
   - title: Preparing the servo
   - title: The pushrod mechanism
-  - title: s5
-  - title: s6
+  - title: Wiring servo to Crumble
+  - title: Finding servo angles
   - title: s7
   - title: s8
