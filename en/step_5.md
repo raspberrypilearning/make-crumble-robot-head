@@ -12,15 +12,17 @@ Connect your Crumble board to a computer using a micro USB cable and to a batter
 
 --- task ---
 
-If you have [Crumblisers](https://redfernelectronics.co.uk/product/crumbliser-pack-of-5/){:target="_blank"} available then this is by far the easiest way to connect your servo and Crumble together.
+To connect the servo to your Crumbliser you could use either [Crumblisers](https://redfernelectronics.co.uk/product/crumbliser-pack-of-5/){:target="_blank"} or male-to-male jumper cables.
+
+![Jumper cable and Crumbliser](images/wiring_jumperAndCrumblisers.png)
+
+If you have Crumblisers available then this is by far the easiest way to connect your servo and Crumble together.
 
 [[[servo-to-crumble-using-crumblisers]]]
 
-Otherwise, you could use three male-to-male jumper cables to do the same job.
+Otherwise, three male-to-male jumper cables will do the same job but be careful to keep any exposed wires or clips from touching each other.
 
 [[[servo-to-crumble-using-jumper-cables]]]
-
-![Jumper cable and Crumbliser](images/wiring_jumperAndCrumblisers.png)
 
 --- /task ---
 
