@@ -6,7 +6,7 @@ We'll start by making `variables`{:class="crumblevariables"} for 'open' and 'clo
 
 --- task ---
 
-Open the Crumble software and in the `Variables`{:class="crumblevariables"} section, click `Add New Variable`{:class="crumblevariable"}. Name the `variable`{:class="crumblevariables"} as 'open'.
+Open the Crumble software and in the `Variables`{:class="crumblevariables"} section, click `Add New Variable`{:class="crumblevariables"}. Name the `variable`{:class="crumblevariables"} as 'open'.
 
 Create another `variable`{:class="crumblevariables"} and name it 'closed'.
 
@@ -50,10 +50,46 @@ From this we can see that fully closed will only mean a small change in angle bu
 
 --- task ---
 
-Change the angle in the `servo A 0 degrees`{:class="crumbleinputoutput"} block. In my example, adding 10 seems like a good idea. I don't want the mouth to go completely into the robot face so a small change is good.
+Change the angle in the `servo A 0 degrees`{:class="crumbleinputoutput"} block.  I don't want the mouth to go completely into the robot face so for my robot head, adding 10 seems like a good idea.
 
-![Servo A to 10°](images/servoAngles_servoTo0Degrees.png)
+![Servo A to 10°](images/servoAngles_servoTo10Degrees.png)
 
-Run you code and check what position the robot mouth is in.
+Run you code and see what the change is.
+
+--- /task ---
+
+![Servo at 10°](images/servoAngles_servoAt10Degrees.png)
+
+In this case, I have found the angle for the closed mouth already but importantly, I have found out that adding to the `servo angle`{:class="crumbleinputoutput"} closes the mouth and so, subtracting from the `servo angle`{:class="crumbleinputoutput"} will open the mouth.
+
+--- task ---
+
+Use the `variables`{:class="crumblevariables"} you made earlier to set the open and closed `servo angles`{:class="crumbleinputoutput"}.
+
+Pull you existing code away from the `program start`{:class="crumblebasic"} block and leave it to one side. 
+
+Add two `let # = 0`{:class="crumblevariables"} blocks and fill the blank field of the first with the `closed`{:class="crumblevariables"} variable and the second with the `open`{:class="crumblevariables"} variable.
+
+I now know that closed is at 10° for my robot head, so I will `let closed = 10`{:class="crumblevariables"}. If your robot mouth has not closed yet, you can add a little until you find the right angle.
+
+I know that open will be less that 0°. As a start I will `let open = -30`{:class="crumblevariables"}.
+
+![Setting servo variables](images/servoAngles_settingServoVariables.png)
+
+--- /task ---
+
+HINT: These variables are acting a little like labels that help us to know what our servo angles are for and what they are doing but setting the variable does not tell the servo to do anything. Now we must tell the servo to move to those angles stored as variables.
+
+--- task ---
+
+Reconnect your old `servo A 10 degrees`{:class="crumbleinputoutput"} block under the `let open = -30`{:class="crumblevariables"} block.
+
+Change the `servo A 10 degrees`{:class="crumbleinputoutput"} to `servo A `{:class="crumbleinputoutput"}`closed`{:class="crumblevariables"}` degrees`{:class="crumbleinputoutput"}.
+
+Add or duplicate blocks to `wait 1.0 seconds`{:class="crumblecontrol"} and then tell `servo A`to go to {:class="crumbleinputoutput"}`open`{:class="crumblevariables"}` degrees`{:class="crumbleinputoutput"}.
+
+Finally, add you remaining old code, `wait 1.0 seconds`{:class="crumblecontrol"} and `servo A off`{:class="crumbleinputoutput"} at the end.
+
+![Using servo variables](images/servoAngles_usingServoVariables.png)
 
 --- /task ---
