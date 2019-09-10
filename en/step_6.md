@@ -100,13 +100,41 @@ Run your code.
 
 --- no-print ---
 
+The mouth moves first to `closed`{:class="crumblevariables"} and then rests at `open`{:class="crumblevariables"}.
+
 ![Servo angle testing](images/servoAngles_servoAngleTesting.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
+The mouth will end up at the `open`{:class="crumblevariables"} position.
+
 ![Servo angle testing](images/servoAngles_servoAngleTesting.png)
 
 --- /print-only ---
+
+In my example, the mouth is still way off being fully open so I will need to reduce the `open`{:class="crumblevariables"} variable by quite a bit still. 
+
+--- task ---
+
+Keep adjusting your `open`{:class="crumblevariables"} and `closed`{:class="crumblevariables"} variablesand running your code until you get your robot mouth to fully open and close.
+
+![Finding the correct servo variables](images/servoAngles_correctServoVariables.png)
+
+For my robot head, the correct values ended up being 10° for fully closed and -90° for fully open.
+
+--- no-print ---
+
+![Running the correct servo angle](images/servoAngles_runningCorrectServoVariables.gif)
+
+--- /no-print ---
+
+--- print-only ---
+
+![Running the correct servo angle](images/servoAngles_runningCorrectServoVariables.png)
+
+--- /print-only ---
+
+--- /task ---
 
