@@ -12,5 +12,5 @@ steps:
   - title: The pushrod mechanism
   - title: Wiring servo to Crumble
   - title: Finding servo angles
-  - title: s7
+  - title: Open and close sequence
   - title: s8
