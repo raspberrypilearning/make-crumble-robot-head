@@ -118,7 +118,7 @@ In my example, the mouth is still way off being fully open so I will need to red
 
 --- task ---
 
-Keep adjusting your `open`{:class="crumblevariables"} and `closed`{:class="crumblevariables"} variablesand running your code until you get your robot mouth to fully open and close.
+Keep adjusting your `open`{:class="crumblevariables"} and `closed`{:class="crumblevariables"} variables and running your code until you get your robot mouth to fully open and close.
 
 ![Finding the correct servo variables](images/servoAngles_correctServoVariables.png)
 
@@ -137,4 +137,19 @@ For my robot head, the correct values ended up being 10° for fully closed and -
 --- /print-only ---
 
 --- /task ---
+
+--- task ---
+
+To give you more options than fully open and fully closed, make another `variable`{:class="crumblevariables"} and call it 'halfway'.
+
+![Added halfway variable](images/servoAngles_addedHalfwayVariable.png)
+
+Add a new `let # = 0`{:class="crumblevariables"} blocks to the starting section of your code and use it to set `halfway`{:class="crumblevariables"} to a value half way between `open`{:class="crumblevariables"} and `closed`{:class="crumblevariables"}.
+
+![Set halfway variable](images/servoAngles_setHalfwayVariable.png)
+
+If you like, you could add extra values for 'slightly open' and 'almost closed'.
+
+--- /task ---
+
 
