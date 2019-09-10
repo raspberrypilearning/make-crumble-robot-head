@@ -92,4 +92,21 @@ Finally, add you remaining old code, `wait 1.0 seconds`{:class="crumblecontrol"}
 
 ![Using servo variables](images/servoAngles_usingServoVariables.png)
 
+Running this code will make yourrobot mouth go to the closed variable position, wait one second and then go to the open variable position and stop there.
+
+Run your code.
+
 --- /task ---
+
+--- no-print ---
+
+![Servo angle testing](images/servoAngles_servoAngleTesting.gif)
+
+--- /no-print ---
+
+--- print-only ---
+
+![Servo angle testing](images/servoAngles_servoAngleTesting.png)
+
+--- /print-only ---
+
