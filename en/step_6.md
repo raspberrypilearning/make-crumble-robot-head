@@ -2,7 +2,7 @@
 
 The first thing you need to do is to find at what angle the servo holds the mouth open and closed.
 
-We'll start by making `variables`{:class="crumblevariable"} for 'open' and 'closed'. This is not totally necessary but will help to keep our code clear.
+We'll start by making `variables`{:class="crumblevariables"} for 'open' and 'closed'. This is not totally necessary but will help to keep our code clear.
 
 --- task ---
 
