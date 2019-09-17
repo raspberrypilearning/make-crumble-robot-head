@@ -58,13 +58,13 @@ The mouth will open and close three times and then stop.
 
 --- no-print ---
 
-![Running the sequence code](images/servoAngles_runningSequence1.gif)
+![Running the sequence code](images/sequence_runningSequence1.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![Running the sequence code](images/servoAngles_runningSequence1.png)
+![Running the sequence code](images/sequence_runningSequence1.png)
 
 --- /print-only ---
 
@@ -75,10 +75,71 @@ The amount of time the servo needs to open and close will vary depending on a ra
 + The remaining charge in the batteries
 + Any friction in the mechanism
 
-In my example, it was very clear that the delay between the servo movements was much longer than it needed to be.
+In my example, it was very clear that the delay between the servo movements was much longer than it needed to be so I am going to shorten the `wait`{:class="crumblecontrol"} time.
 
+Since I have three `wait`{:class="crumblecontrol"} blocks that affect the mouth opening and closing, I need to change all three. Let's make a variable for the `wait`{:class="crumblecontrol"} time to make changing the delay much quicker and easier.
 
+--- task ---
 
+`Add a new variable`{:class="crumblevariables"} called `delay`{:class="crumblevariables"} in the `Variable`{:class="crumblevariables"} palette.
+
+![Creating a delay variable](images/sequence_delayVariable.png)
+
+--- /task ---
+
+--- task ---
+
+Since my robot mouth seemed to spend as much time still as it was moving, I'm going to halve the `wait`{:class="crumblecontrol"} time by setting `delay`{:class="crumblevariables"} to `500`{:class="crumblevariables"} so I can make the delay 500 milliseconds.
+
+Add a `let delay = 500`{:class="crumblevariables"} block to the start of your code with the blocks that define your `closed`{:class="crumblevariables"} and `open`{:class="crumblevariables"} variables.
+
+![Let delay variable = 500](images/sequence_setDelayVariable.png)
+
+--- /task ---
+
+--- task ---
+
+We will be setting the `wait`{:class="crumblecontrol"} time in milliseconds now so replace each of the three `wait 0.1 seconds`{:class="crumblecontrol"} blocks with a `wait 100 milliseconds`{:class="crumblecontrol"} block.
+
+Place a `delay`{:class="crumblevariables"} variable block in each `wait 100 milliseconds`{:class="crumblecontrol"} block.
+
+![Placing the delay variable blocks](images/sequence_delayVariableInPlace.png)
+
+--- /task ---
+
+Let's see what we have done. Time to run your code.
+
+--- no-print ---
+
+![Running the sequence code](images/sequence_runningSequence2.gif)
+
+--- /no-print ---
+
+--- print-only ---
+
+![Running the sequence code](images/sequence_runningSequence2.png)
+
+--- /print-only ---
+
+A `500 milliseconds`{:class="crumblecontrol"} `delay`{:class="crumblevariables"} worked very well and came very close to finding the optimum open and close timing.
+
+To adjust the `wait`{:class="crumblecontrol"} time now you can simply change the `delay`{:class="crumblevariables"} variable value at the start of your code!
+
+I tried 600, 550, 450, 400 and 300 milliseconds. To my surprise, I liked 300 milliseconds the best. It did not let the mouth open or close fully but looked very natural.
+
+--- no-print ---
+
+![Running the sequence code](images/sequence_runningSequence3.gif)
+
+--- /no-print ---
+
+--- task ---
+
+Now it's your turn to find your favourite timing. Alter the `delay`{:class="crumblevariables"} variable block amount until you find the timing that works best for you
+
+![Placing the delay variable blocks](images/sequence_delayVariableInPlace.png)
+
+--- /task ---
 
 
 
