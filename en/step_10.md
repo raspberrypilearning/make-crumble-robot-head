@@ -97,9 +97,3 @@ Click the **play** button to run the code.
 ![Multiple sequence routine](images/multipleSequences_finalCodeRunning.gif)
 
 --- /no-print ---
-
---- print-only ---
-
-![Multiple sequence routine](images/multipleSequences_finalCodeRunning.png)
-
---- /print-only ---
