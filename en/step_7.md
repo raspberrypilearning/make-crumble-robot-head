@@ -137,7 +137,7 @@ I tried 600, 550, 450, 400 and 300 milliseconds. To my surprise, I liked 300 mil
 
 Now it's your turn to find your favourite timing. Alter the `delay`{:class="crumblevariables"} variable block amount until you find the timing that works best for you
 
-![Alter the value of the delay variable](images/sequence_delayVariableInPlace.png)
+![Alter the value of the delay variable](images/sequence_alterDelayVariable.png)
 
 --- /task ---
 
