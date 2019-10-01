@@ -13,4 +13,10 @@ steps:
   - title: Wiring servo to Crumble
   - title: Finding servo angles
   - title: Open and close sequence
-  - title: s8
+  - title: "Challenge: randomise your sequence"
+    challenge: true
+  - title: Slow moves
+  - title: Multiple sequences
+  - title: "Challenge: random sequence selector"
+    challenge: true
+  - title: What next?
