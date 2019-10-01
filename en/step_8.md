@@ -28,7 +28,7 @@ When the `program starts`{:class="crumblebasic"}, you should:
 + `Set the closed angle value`{:class="crumblevariables"} and the `open angle value`{:class="crumblevariables"} too
 + Set `servo A`{:class="crumbleinputoutput"} to `closed`{:class="crumblevariables"}
 + `Wait`{:class="crumblecontrol"} for half a second
-+ `Repeat`{:class="crumblecontrol"} the mouth open/close sequence `3 to 6`{:class="crumbleoperators"}
++ `Repeat`{:class="crumblecontrol"} the mouth open/close sequence `3 to 6`{:class="crumbleoperators"} times
 + Set `servo A`{:class="crumbleinputoutput"} to `open`{:class="crumblevariables"}
 + `Wait`{:class="crumblecontrol"} for `100 to 400`{:class="crumbleoperators"} milliseconds
 + Set `servo A`{:class="crumbleinputoutput"} to `closed`{:class="crumblevariables"}

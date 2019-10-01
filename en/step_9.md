@@ -2,7 +2,7 @@
 
 Up until now you have been coding your servo to move from one angle to another as fast as it can go.
 
-**Go here! Now go here! Now here!**
+**Go here!... Now go here!... Now here!**
 
 You can't actually control the speed of the servo using your Crumble controller but you can come very close by making the `servo move`{:class="crumbleinputoutput"} in little steps with tiny `pauses`{:class="crumblecontrol"}
 between each step.
@@ -106,6 +106,18 @@ Finally, add a block to turn the `servo OFF`{:class="crumbleinputoutput"}.
 --- /task ---
 
 Click the **play** button to run the code.
+
+--- no-print ---
+
+![Slow moving mouth](images/slowMoves_finalCodeRunning.gif)
+
+--- /no-print ---
+
+--- print-only ---
+
+![Slow moving mouth](images/slowMoves_finalCodeRunning.png)
+
+--- /print-only ---
 
 --- task ---
 
