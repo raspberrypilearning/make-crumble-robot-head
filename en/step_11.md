@@ -1,22 +1,14 @@
 ## Challenge: random sequence selector
 
-
-
-
 You have already coded your robot mouth to open and close with two different sequences but currently they still run in a predictable, set order.
 
-Can you add a bit of code to your 'multiple sequence' program to 
+Can you add code to your 'multiple sequence' program to:
 
++ Randomly select one sequence to execute?
++ Wait between 1/2 to 2 seconds before selecting another random sequence?
++ Repeat until the programis stopped?
 
-
-
-but the timing is fixed and the same every time. That's fine for a robot robot, but if you want to make a robot creature or person you might want it to look a little more realistic. Adding a little randomisation is a good way to fo this.
-
-Code your Crumble robot head to open and close just as you have but with a slightly random movement. Let's add a little bonus and have the mouth opening a random number of times too!
-
-Don't start from the beginning, just alter the code you had from the open and close sequence.
-
-NOTE: You could achieve this by randomising the `open`{:class="crumblevariables"} and `closed`{:class="crumblevariables"} variables, but in this case you will randomise the `wait`{:class="crumblecontrol"} time.
+NOTE: Don't start from the beginning, just alter the code you have written for the multiple sequences. What happens in the sequences is not important for this challenge. This is all about randomly selecting a sequence.
 
 --- no-print ---
 
@@ -35,11 +27,12 @@ NOTE: You could achieve this by randomising the `open`{:class="crumblevariables"
 --- hint ---
 
 When the `program starts`{:class="crumblebasic"}, you should:
-+ `Set the closed angle value`{:class="crumblevariables"} and the `open angle value`{:class="crumblevariables"} too
++ `Set the variable value`{:class="crumblevariables"} of `open`{:class="crumblevariables"}, `closed`{:class="crumblevariables"},`delay`{:class="crumblevariables"} and `angle`{:class="crumblevariables"} as you did previously.
++ `Add a new variable`{:class="crumblevariables"} called `selector`{:class="crumblevariables"} and set its value to 0.
 + Set `servo A`{:class="crumbleinputoutput"} to `closed`{:class="crumblevariables"}
 + `Wait`{:class="crumblecontrol"} for half a second
-+ `Repeat`{:class="crumblecontrol"} the mouth open/close sequence `3 to 6`{:class="crumbleoperators"} times
-+ Set `servo A`{:class="crumbleinputoutput"} to `open`{:class="crumblevariables"}
++ `Repeat forever`{:class="crumblecontrol"} t
+    + Set `servo A`{:class="crumbleinputoutput"} to `open`{:class="crumblevariables"}
 + `Wait`{:class="crumblecontrol"} for `100 to 400`{:class="crumbleoperators"} milliseconds
 + Set `servo A`{:class="crumbleinputoutput"} to `closed`{:class="crumblevariables"}
 + `Wait`{:class="crumblecontrol"} for another `100 to 400`{:class="crumbleoperators"} milliseconds
