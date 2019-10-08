@@ -18,12 +18,6 @@ NOTE: Don't start from the beginning, just alter the code you have written for t
 
 --- /no-print ---
 
---- print-only ---
-
-![Random sequence selector challenge](images/randomSequenceSelect_completedTask.png)
-
---- /print-only ---
-
 --- hints ---
 
 --- hint ---
