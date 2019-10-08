@@ -31,8 +31,8 @@ When the `program starts`{:class="crumblebasic"}, you should:
 + `Add a new variable`{:class="crumblevariables"} called `selector`{:class="crumblevariables"} and set its value to 0.
 + Set `servo A`{:class="crumbleinputoutput"} to `closed`{:class="crumblevariables"}
 + `Wait`{:class="crumblecontrol"} for half a second
-+ `Repeat forever`{:class="crumblecontrol"} t
-    + Set `servo A`{:class="crumbleinputoutput"} to `open`{:class="crumblevariables"}
++ `Repeat forever`{:class="crumblecontrol"} 
+        + Set `servo A`{:class="crumbleinputoutput"} to `open`{:class="crumblevariables"}
 + `Wait`{:class="crumblecontrol"} for `100 to 400`{:class="crumbleoperators"} milliseconds
 + Set `servo A`{:class="crumbleinputoutput"} to `closed`{:class="crumblevariables"}
 + `Wait`{:class="crumblecontrol"} for another `100 to 400`{:class="crumbleoperators"} milliseconds
