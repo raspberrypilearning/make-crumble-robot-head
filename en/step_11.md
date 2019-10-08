@@ -50,6 +50,8 @@ Most of the code is the same as before. You will need to add the `selector`{:cla
 
 The only block you will need to remove is the `repeat`{:class="crumblecontrol"} that holds both of the sequences inside it.
 
+![discard repeat block](images/randomSequenceSelect_discardRepeat.png)
+
 Some exising blocks will need rearranging as well as newblocks being added.
 
 ![Random sequence selector challenge code parsons problem](images/randomSequenceSelect_parsons.png)
