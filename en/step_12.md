@@ -2,11 +2,11 @@
 
 Building on the last challenge, you could make whole range of sequences, randimise them and randoimise which one is selected.
 
-We used the IF... THEN... ELSE... to choose between two different options
+We used the **IF... THEN... ELSE...** to choose between two different options
 
 ![IF THE ELSE](images/whatNext_2options.png)
 
-For three options we simply change this to IF... THEN... ELSE IF... THEN... ELSE...
+For three options we simply change this to **IF... THEN... ELSE IF... THEN... ELSE...**
 
 ![IF THE ELSE x2](images/whatNext_3options.png)
 
