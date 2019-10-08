@@ -54,7 +54,7 @@ Some exising blocks will need rearranging as well as newblocks being added.
 
 --- hint ---
 
-Here's what the comppleted code should look like.
+Here's what the completed code should look like.
 
 ![Random sequence Selector challenge code solution](images/randomSequenceSelect_solution.png)
 
