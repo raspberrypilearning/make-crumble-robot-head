@@ -60,9 +60,13 @@ Some exising blocks will need rearranging as well as newblocks being added.
 
 --- hint ---
 
-The code below works for my robot head's mouth. You will probably have different `open`{:class="crumblevariables"} and `closed`{:class="crumblevariables"} angles. The range of `random numbers`{:class="crumbleoperators"} you choose for your robot is also dependent on your robot and your choice.
+Here's what the comppleted code should look like.
 
 ![Random sequence Selector challenge code solution](images/randomSequenceSelect_solution.png)
+
+You can play around with what the sequences are asmuch as you like.
+
+How about adding a third sequence?
 
 Click the green **Play** button to see if it works.
 
