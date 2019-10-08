@@ -20,13 +20,13 @@ NOTE: You could achieve this by randomising the `open`{:class="crumblevariables"
 
 --- no-print ---
 
-![Randomised sequence challenge](images/randomSequence_completedTask.gif)
+![Random sequence selector challenge](images/randomSequenceSelect_completedTask.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![Randomised sequence challenge](images/randomSequence_completedTask.png)
+![Random sequence selector challenge](images/randomSequenceSelect_completedTask.png)
 
 --- /print-only ---
 
@@ -53,11 +53,7 @@ Most of the code is the same as before. You will need to remove some `variable`{
 
 You will need to remove the `delay variable`{:class="crumblevariables"} blocks and add the `random number`{:class="crumbleoperators"} blocks.
 
-![Random sequence challenge code parsons problem](images/randomSequence_parsons.png)
-
-I have also removed the `halfway variable`{:class="crumblevariables"} block as it wasn't doing anything. It does no harm but there's no reason to have it until we start using it.
-
-![Remove unused code](images/randomSequence_unusedCode.png)
+![Random sequence selector challenge code parsons problem](images/randomSequenceSelect_parsons.png)
 
 --- /hint ---
 
@@ -65,7 +61,7 @@ I have also removed the `halfway variable`{:class="crumblevariables"} block as i
 
 The code below works for my robot head's mouth. You will probably have different `open`{:class="crumblevariables"} and `closed`{:class="crumblevariables"} angles. The range of `random numbers`{:class="crumbleoperators"} you choose for your robot is also dependent on your robot and your choice.
 
-![Random sequence challenge code solution](images/randomSequence_solution.png)
+![Random sequence Selector challenge code solution](images/randomSequenceSelect_solution.png)
 
 Click the green **Play** button to see if it works.
 
