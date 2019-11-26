@@ -57,7 +57,7 @@ The code below works for my robot head's mouth. You will probably have different
 
 ![Random sequence challenge code solution](images/randomSequence_solution.png)
 
-Click the green **Play** button to see if it works.
+Click the green **play** button to see if it works.
 
 --- /hint ---
 
