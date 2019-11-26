@@ -10,7 +10,7 @@ Start with the code that you wrote in 'Finding servo angles'.
 
 --- /task ---
 
-The first section of this code sets the variable values used to tell the servo what angle to rotate to. Then, the second section gives the servo a sequence of rotations and pauses. 
+The first section of this code sets the variable values, which direct the angle rotation of the servo. Then, the second section gives the servo a sequence of rotations and pauses. 
 
 We will keep the first section exactly as it is and just change the sequence.
 
@@ -24,13 +24,13 @@ To begin your sequence, add an `output`{:class="crumbleinputoutput"} block telli
 
 This makes the closed mouth the starting state for the robot head. 
 
-NOTE: All servo movements need to be followed by a `wait`{:class="crumblecontrol"} block to give enough time for the servo to complete its movement. The time might be very quick but some time is always needed.
+NOTE: All servo movements need to be followed by a `wait`{:class="crumblecontrol"} block to give enough time for the servo to complete its movement. 
 
 --- /task ---
 
 --- task ---
 
-Add a repeat loop, `do 10 times`{:class="crumblecontrol"} to the code and change the number of repeats to 3.
+Add a repeat loop, `do 10 times`{:class="crumblecontrol"}, to the code and change the number of repeats to 3.
 
 ![Repeat 3 times](images/sequence_repeatLoop.png)
 
@@ -89,7 +89,7 @@ Since I have three `wait`{:class="crumblecontrol"} blocks that affect the mouth 
 
 --- task ---
 
-Since my robot mouth seemed to spend as much time still as it was moving, I'm going to halve the `wait`{:class="crumblecontrol"} time by setting `delay`{:class="crumblevariables"} to `500`{:class="crumblevariables"} so I can make the delay 500 milliseconds.
+My robot mouth seemed to spend as much time still as it was moving. To halve the `wait`{:class="crumblecontrol"} time, I set `delay`{:class="crumblevariables"} to `500`{:class="crumblevariables"} so I can make the delay 500 milliseconds.
 
 Add a `let delay = 500`{:class="crumblevariables"} block to the start of your code with the blocks that define your `closed`{:class="crumblevariables"} and `open`{:class="crumblevariables"} variables.
 
@@ -125,7 +125,7 @@ A `500 milliseconds`{:class="crumblecontrol"} `delay`{:class="crumblevariables"}
 
 To adjust the `wait`{:class="crumblecontrol"} time now you can simply change the `delay`{:class="crumblevariables"} variable value at the start of your code!
 
-I tried 600, 550, 450, 400 and 300 milliseconds. To my surprise, I liked 300 milliseconds the best. It did not let the mouth open or close fully but looked very natural.
+I tried 600, 550, 450, 400 and 300 milliseconds. To my surprise, I liked 300 milliseconds the best as it did not let the mouth open or close fully and looked very natural.
 
 --- no-print ---
 
