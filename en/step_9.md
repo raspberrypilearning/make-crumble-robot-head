@@ -115,7 +115,7 @@ Click the **play** button to run the code.
 
 --- task ---
 
-Adjust the `delay`{:class="crumblevariables"} variable to control the speed. See what difference itmakeswhen you increase or decrease the value.
+Adjust the `delay`{:class="crumblevariables"} variable to control the speed. See what difference it makes when you increase or decrease the value.
 
 You could try randomising the `delay`{:class="crumblevariables"} variable to get a random opening and closing speed. 
 
