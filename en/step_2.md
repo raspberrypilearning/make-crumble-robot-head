@@ -4,7 +4,7 @@ The first step is to make your robot head. You can use a small cardboard box or 
 
 ![3D net of a cube robot head](images/robotHead_3DNet.png)
 
-Making a 3D net from scratch is great, but can be time-consuming. There is no right or wrong method to make your robot head. If you want to focus on the mechanism and coding, small boxes are very cheap to buy from online retailers.
+Making a 3D net from scratch is great, but it can be time-consuming. There is no right or wrong method to make your robot head. If you want to focus on the mechanism and coding, small boxes are very cheap to buy from online retailers.
 
 ![Cheap cardboard box](images/robotHead_cheapBox.png)
 
