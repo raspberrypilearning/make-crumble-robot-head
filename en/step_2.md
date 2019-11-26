@@ -22,17 +22,17 @@ Take your box, decide where the face will be and mark the two side flaps to be c
 
 Cut the two side flaps off, using a knife or scissors.
 
-Tape or glue the top flap down to be the face above the mouth.
+Tape or glue the top flap down. This will be the face above the mouth.
 
 ![Upper face fixed in place](images/robotHead_upperFace.png)
 
 --- /task ---
 
-Closing the back opening of the box helps it keep its shape at this point. However, for most people, having it open makes the rest the build easier.
+Closing the back opening of the box helps it keep its shape at this point. However, some people find keeping it open makes the rest the build easier.
 
 --- task ---
 
-Make eyes for your robot head. You can draw or paint eyes straight on or use cut up card, paper, or anything you like. After all, it's your robot head!
+Make eyes for your robot head. You can draw or paint eyes onto the box or use cut up card, paper, or anything you like. After all, it's your robot head!
 
 ![Robot head eyes](images/robotHead_eyes.png)
 
