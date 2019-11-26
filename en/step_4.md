@@ -38,7 +38,7 @@ Before you fix your pushrod mechanism into the robot head box, you will need a s
 
 --- /task ---
 
-The positions of the servo and the end of the pushrod are important so it's best if you understand where they need to go.
+The positions of the servo and the end of the pushrod are important, so it's best if you understand where they need to go.
 
 The measurements will be different depending on the length of your paperclip pushrod and the length of the servo horn, but the principle will stay the same.
 
@@ -90,6 +90,6 @@ Glue the servo in position so that the arm can move backwards and forwards, roug
 
 --- /task ---
 
-You can write some code to move the servo and test its position. Alternatively you can test it manually by reaching in through the back of the robot head and moving the servo arm by hand. Be careful if you do this, as it is easy to move the servo or bend the pushrod.
+You can write some code to move the servo and test its position. Alternatively, you can test it manually by reaching in through the back of the robot head and moving the servo arm by hand. Be careful if you do this, as it's easy to move the servo or bend the pushrod.
 
 ![Servo mouth manually opened](images/pushrod_servoManuallyOpened.png)
