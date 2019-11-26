@@ -44,13 +44,13 @@ Run you code and check what position the robot mouth is in.
 
 --- /print-only ---
 
-It makes sense that with the servo at 0° that the mouth would be half-open but you can see from this example that it doesn't always work out that way. My robot mouth is almost totally closed!
+It makes sense that with the servo at 0° that the mouth would be half-open but you can see from this example that it doesn't always work out that way. My robot mouth is almost completely closed!
 
 From this we can see that fully closed will only mean a small change in angle but we don't know which direction yet.
 
 --- task ---
 
-Change the angle in the `servo A 0 degrees`{:class="crumbleinputoutput"} block.  I don't want the mouth to go completely into the robot face so for my robot head, adding 10 seems like a good idea.
+Change the angle in the `servo A 0 degrees`{:class="crumbleinputoutput"} block. I don't want the mouth to go completely into the robot face so for my robot head, adding 10 seems like a good idea.
 
 ![Servo A to 10°](images/servoAngles_servoTo10Degrees.png)
 
@@ -92,7 +92,7 @@ Finally, add you remaining old code, `wait 1.0 seconds`{:class="crumblecontrol"}
 
 ![Using servo variables](images/servoAngles_usingServoVariables.png)
 
-Running this code will make yourrobot mouth go to the closed variable position, wait one second and then go to the open variable position and stop there.
+Running this code will make your robot mouth go to the closed variable position, wait one second and then go to the open variable position and stop there.
 
 Run your code.
 
@@ -114,7 +114,7 @@ The mouth will end up at the `open`{:class="crumblevariables"} position.
 
 --- /print-only ---
 
-In my example, the mouth is still way off being fully open so I will need to reduce the `open`{:class="crumblevariables"} variable by quite a bit still. 
+In my example, the mouth is still way off being fully open so I will still need to reduce the `open`{:class="crumblevariables"} variable by quite a bit. 
 
 --- task ---
 
