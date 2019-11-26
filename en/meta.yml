@@ -8,10 +8,10 @@ last_tested: "2019-06-26"
 steps:
   - title: Introduction
   - title: The robot head
-  - title: Preparing the servo
+  - title: Prepare the servo
   - title: The pushrod mechanism
-  - title: Wiring servo to Crumble
-  - title: Finding servo angles
+  - title: Wire servo to Crumble
+  - title: Find servo angles
   - title: Open and close sequence
   - title: "Challenge: randomise your sequence"
     challenge: true
