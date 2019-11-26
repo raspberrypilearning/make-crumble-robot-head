@@ -1,6 +1,6 @@
 ## Introduction
 
-You will be using your coding, making and engineering skills to create a robot head with a moving mouth that opens and closes using a servo and a pushrod mechanism. 
+You will use your coding, making, and engineering skills to create a robot head with a moving mouth, using a servo and a pushrod mechanism. 
 
 Watch you fingers. It bites!
 
