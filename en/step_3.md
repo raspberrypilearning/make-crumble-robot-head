@@ -1,6 +1,6 @@
 ## Prepare the servo
 
-Let's have a look at the servo and some very important preparation before you use it in the project.
+Let's have a look at the servo and some important preparations to make before you use it in the project.
 
 --- task ---
 
