@@ -35,7 +35,7 @@ title: What you will need
 + A paperclip
 + Tools to make your robot head, e.g. scissors and glue or tape
 
-**Note**: A hot melt glue gun makes fixing the servo into your project very easy.
+**Note**: A hot melt glue gun is an easy tool to fix the servo into your project.
 
 ### Software
 
