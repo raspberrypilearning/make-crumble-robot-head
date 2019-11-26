@@ -33,7 +33,7 @@ title: What you will need
 
 + Materials to make your robot head, e.g. a small box or cardboard
 + A paperclip
-+ Tools to make your robot head, e.g. glue or tape, and scissors
++ Tools to make your robot head, e.g. scissors and glue or tape
 
 Note: A hot melt glue gun makes fixing the servo into your project very easy.
 
