@@ -78,7 +78,7 @@ I know that open will be less that 0°. As a start I will `let open = -30`{:clas
 
 --- /task ---
 
-HINT: These variables are acting a little like labels that help us to know what our servo angles are for and what they are doing but setting the variable does not tell the servo to do anything. Now we must tell the servo to move to those angles stored as variables.
+HINT: These variables are acting like labels that help us to know what our servo angles are for and what they are doing but setting the variable does not tell the servo to do anything. Now we must tell the servo to move to those angles stored as variables.
 
 --- task ---
 
@@ -92,7 +92,7 @@ Finally, add you remaining old code, `wait 1.0 seconds`{:class="crumblecontrol"}
 
 ![Using servo variables](images/servoAngles_usingServoVariables.png)
 
-Running this code will make your robot mouth go to the closed variable position, wait one second and then go to the open variable position and stop there.
+Running this code will make your robot mouth go to the closed variable position, wait one second, and then go to the open variable position and stop there.
 
 Run your code.
 
@@ -114,7 +114,7 @@ The mouth will end up at the `open`{:class="crumblevariables"} position.
 
 --- /print-only ---
 
-In my example, the mouth is still way off being fully open so I will still need to reduce the `open`{:class="crumblevariables"} variable by quite a bit. 
+In my example, the mouth is still far from being fully open so I will need to reduce the `open`{:class="crumblevariables"} variable by quite a bit. 
 
 --- task ---
 
