@@ -1,10 +1,10 @@
-## Wiring servo to Crumble
+## Wire servo to Crumble
 
 Now that you have your robot head, you will need to wire up the servo to your Crumble controller board.
 
 --- task ---
 
-Connect your Crumble board to a computer using a micro USB cable and to a battery pack using crocodile leads.
+Connect your Crumble board to a computer using a micro USB cable, and to a battery pack using crocodile clip cables.
 
 ![Connecting your Crumble](images/wiring_crumbleConnected-01.png)
 
@@ -20,7 +20,7 @@ If you have Crumblisers available then this is by far the easiest way to connect
 
 [[[servo-to-crumble-using-crumblisers]]]
 
-Otherwise, three male-to-male jumper cables will do the same job but be careful to keep any exposed wires or clips from touching each other.
+Otherwise, three male-to-male jumper cables will do the same job, but be careful to keep any exposed wires or clips from touching each other.
 
 [[[servo-to-crumble-using-jumper-cables]]]
 
