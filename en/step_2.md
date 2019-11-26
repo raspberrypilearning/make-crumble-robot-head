@@ -8,7 +8,7 @@ Making a 3D net from scratch is great, but it can be time-consuming. There is no
 
 ![Cheap cardboard box](images/robotHead_cheapBox.png)
 
-This example project uses a six inch wide cube box.
+This example project uses a 6-inch wide cube box.
 
 --- task ---
 
