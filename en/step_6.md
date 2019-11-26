@@ -144,7 +144,7 @@ To give you more options than fully open and fully closed, make another `variabl
 
 ![Added halfway variable](images/servoAngles_addedHalfwayVariable.png)
 
-Add a new `let # = 0`{:class="crumblevariables"} blocks to the starting section of your code and use it to set `halfway`{:class="crumblevariables"} to a value half way between `open`{:class="crumblevariables"} and `closed`{:class="crumblevariables"}.
+Add a new `let # = 0`{:class="crumblevariables"} block to the starting section of your code and use it to set `halfway`{:class="crumblevariables"} to a value half way between `open`{:class="crumblevariables"} and `closed`{:class="crumblevariables"}.
 
 ![Set halfway variable](images/servoAngles_setHalfwayVariable.png)
 
