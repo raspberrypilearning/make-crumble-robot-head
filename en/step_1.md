@@ -2,7 +2,7 @@
 
 You will use your coding, making, and engineering skills to create a robot head with a moving mouth, using a servo and a pushrod mechanism. 
 
-Watch you fingers. It bites!
+Watch you fingers &mdash; it bites!
 
 ### What you will make
 
