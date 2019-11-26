@@ -25,7 +25,7 @@ NOTE: You could achieve this by randomising the `open`{:class="crumblevariables"
 --- hint ---
 
 When the `program starts`{:class="crumblebasic"}, you should:
-+ `Set the closed angle value`{:class="crumblevariables"} and the `open angle value`{:class="crumblevariables"} too
++ `Set the closed angle value`{:class="crumblevariables"} and the `open angle value`{:class="crumblevariables"} 
 + Set `servo A`{:class="crumbleinputoutput"} to `closed`{:class="crumblevariables"}
 + `Wait`{:class="crumblecontrol"} for half a second
 + `Repeat`{:class="crumblecontrol"} the mouth open/close sequence `3 to 6`{:class="crumbleoperators"} times
