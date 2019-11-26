@@ -7,7 +7,7 @@ You have already coded your robot mouth to open and close with two different seq
 Can you add code to your 'multiple sequence' program to:
 
 + Randomly select one sequence to execute?
-+ Wait between 1/2 to 3 seconds before selecting another random sequence?
++ Wait 1-3 seconds before selecting another random sequence?
 + Repeat until the program is stopped?
 
 NOTE: Don't start from the beginning, just alter the code you have written for the multiple sequences. What happens in the sequences is not important for this challenge. This is all about randomly selecting a sequence.
