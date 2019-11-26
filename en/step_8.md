@@ -45,7 +45,7 @@ You will need to remove the `delay variable`{:class="crumblevariables"} blocks a
 
 ![Random sequence challenge code parsons problem](images/randomSequence_parsons.png)
 
-I have also removed the `halfway variable`{:class="crumblevariables"} block as it wasn't doing anything. It does no harm but there's no reason to have it until we start using it.
+I have also removed the `halfway variable`{:class="crumblevariables"} block as it wasn't doing anything. 
 
 ![Remove unused code](images/randomSequence_unusedCode.png)
 
