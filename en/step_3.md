@@ -18,7 +18,7 @@ Place the horn on the rotating shaft.
 
 --- task ---
 
-Test the range of the servo by moving the horn gently as far as it will go in each direction. Don't force it.
+Test the range of the servo by gently moving the horn as far as it will go in each direction. Don't force it.
 
 You will probably find that the servo arm can rotate past the flat position in one direction but not reach the flat position in the other.
 
@@ -62,9 +62,9 @@ Your servo should rotate from horizontal to horizontal on each side.
 
 --- task ---
 
-As well as a selection of horns, servos also come with screws to fix the horns. These prevent the horns working loose and falling off when the servo rotates.
+As well as a selection of horns, servos also come with screws to fix the horns. These prevent the horns from falling off when the servo rotates.
 
-Once the horn is exactly where you want it, screw it in place to fix it.
+Once the horn is exactly where you want it, screw it in place.
 
 ![Horn rotation range](images/prepareServo_screwFixing.png)
 
