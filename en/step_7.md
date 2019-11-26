@@ -22,7 +22,7 @@ To begin your sequence, add an `output`{:class="crumbleinputoutput"} block telli
 
 ![Start with the mouth closed](images/sequence_mouthClosed.png)
 
-This is to make the mouth being closed the starting state for the robot head. 
+This makes the closed mouth the starting state for the robot head. 
 
 NOTE: All servo movements need to be followed by a `wait`{:class="crumblecontrol"} block to give enough time for the servo to complete its movement. The time might be very quick but some time is always needed.
 
@@ -99,7 +99,7 @@ Add a `let delay = 500`{:class="crumblevariables"} block to the start of your co
 
 --- task ---
 
-We will be setting the `wait`{:class="crumblecontrol"} time in milliseconds now so replace each of the three `wait 0.1 seconds`{:class="crumblecontrol"} blocks with a `wait 100 milliseconds`{:class="crumblecontrol"} block.
+We will be setting the `wait`{:class="crumblecontrol"} time in milliseconds now, so replace each of the three `wait 0.1 seconds`{:class="crumblecontrol"} blocks with a `wait 100 milliseconds`{:class="crumblecontrol"} block.
 
 Place a `delay`{:class="crumblevariables"} variable block in each `wait 100 milliseconds`{:class="crumblecontrol"} block.
 
