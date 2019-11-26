@@ -10,7 +10,7 @@ Servos have detachable plastic arms, called 'horns', that can be fixed to the ro
 
 Select the horn that has a single long arm. If there are no single arm horns, you will need to adapt another horn by cutting off any additional arms.
 
-Place the horn on rotating shaft.
+Place the horn on the rotating shaft.
 
 ![Servo with horn](images/prepareServo_servoAndHorn.png)
 
