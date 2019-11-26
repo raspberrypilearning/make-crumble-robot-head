@@ -22,11 +22,11 @@ title: What you will need
 ---
 ### Hardware
 
-+ A PC, Mac or Chromebook with Crumble software installed and a USB port
++ A PC, Mac, or Chromebook with Crumble software installed and a USB port
 
 + A Crumble controller
 + A 3xAA battery pack
-+ Crocodile leads
++ Crocodile clip cables
 
 + A small 180° position servo, such as an SG90 or SG92R
 + A Crumbliser OR jumper leads
