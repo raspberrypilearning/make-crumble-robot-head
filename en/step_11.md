@@ -36,7 +36,7 @@ When the `program starts`{:class="crumblebasic"}, you should:
     + Turn the `servo OFF`{:class="crumbleinputoutput"}
     + And `wait`{:class="crumblecontrol"} between `500 to 3000`{:class="crumbleoperators"} milliseconds
 
-Most of the code is the same as before. You will need to add the `selector`{:class="crumblevariables"} variable, a `do forever`{:class="crumblecontrol"} loop and add a few `random number`{:class="crumbleoperators"} blocks.
+Most of the code is the same as before. You will need to add the `selector`{:class="crumblevariables"} variable, a `do forever`{:class="crumblecontrol"} loop, and add a few `random number`{:class="crumbleoperators"} blocks.
 
 --- /hint ---
 
@@ -46,7 +46,7 @@ The only block you will need to remove is the `repeat`{:class="crumblecontrol"} 
 
 ![discard repeat block](images/randomSequenceSelect_discardRepeat.png)
 
-Some exising blocks will need rearranging as well as newblocks being added.
+Some exising blocks will need rearranging as well as new blocks being added.
 
 ![Random sequence selector challenge code parsons problem](images/randomSequenceSelect_parsons.png)
 
@@ -62,7 +62,7 @@ You can play around with what the sequences are asmuch as you like.
 
 How about adding a third sequence?
 
-Click the green **Play** button to see if it works.
+Click the green **play** button to see if it works.
 
 --- /hint ---
 
