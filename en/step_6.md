@@ -1,6 +1,6 @@
-## Finding the servo angles for open and closed
+## Find the servo angles for open and closed
 
-The first thing you need to do is to find at what angle the servo holds the mouth open and closed.
+The first thing you need to do is to find the angle at which the servo holds the mouth open and closed.
 
 We'll start by making `variables`{:class="crumblevariables"} for 'open' and 'closed'. This is not totally necessary but will help to keep our code clear.
 
@@ -14,9 +14,9 @@ Create another `variable`{:class="crumblevariables"} and name it 'closed'.
 
 --- /task ---
 
-The servo has an angle range of 180°. For many devices this means you can set the servo anyone from 0° to 180° but with Crumble, 0° is the midpoint and you can set your servo from -90° to 90°.
+The servo has an angle range of 180°. For many devices this means you can set the servo anywhere from 0° to 180° but with Crumble, 0° is the midpoint and you can set your servo from -90° to 90°.
 
-Let's start by checking what position 0° puts our robot mouth at.
+Let's start by checking what effect 0° has on the robot mouth.
 
 --- task ---
 
@@ -24,11 +24,11 @@ Grab a `program start`{:class="crumblebasic"} block and add a `servo A 0 degrees
 
 The example here uses the Crumble 'A' terminal, but if you connected your servo to a different terminal you will need to change the `A`{:class="crumbleinputoutput"} to whatever terminal you used.
 
-To save batteries and in case your code is telling a servo to be in a position it doesn't want to be in, add a delay and turn the servo off.
+To save batteries, and in case your code is telling a servo to be in a position it doesn't want to be in, add a delay and turn the servo off.
 
 ![Servo A to 0°](images/servoAngles_servoTo0Degrees.png)
 
-Run you code and check what position the robot mouth is in.
+Run you code and check the position of the robot mouth.
 
 --- /task ---
 
@@ -54,13 +54,13 @@ Change the angle in the `servo A 0 degrees`{:class="crumbleinputoutput"} block. 
 
 ![Servo A to 10°](images/servoAngles_servoTo10Degrees.png)
 
-Run you code and see what the change is.
+Run you code and note the change.
 
 --- /task ---
 
 ![Servo at 10°](images/servoAngles_servoAt10Degrees.png)
 
-In this case, I have found the angle for the closed mouth already but importantly, I have found out that adding to the `servo angle`{:class="crumbleinputoutput"} closes the mouth and so, subtracting from the `servo angle`{:class="crumbleinputoutput"} will open the mouth.
+In this case, I have already found the angle for the closed mouth. However I have also discovered that adding to the `servo angle`{:class="crumbleinputoutput"} closes the mouth and so, subtracting from the `servo angle`{:class="crumbleinputoutput"} will open the mouth.
 
 --- task ---
 
@@ -70,7 +70,7 @@ Pull you existing code away from the `program start`{:class="crumblebasic"} bloc
 
 Add two `let # = 0`{:class="crumblevariables"} blocks and fill the blank field of the first with the `closed`{:class="crumblevariables"} variable and the second with the `open`{:class="crumblevariables"} variable.
 
-I now know that closed is at 10° for my robot head, so I will `let closed = 10`{:class="crumblevariables"}. If your robot mouth has not closed yet, you can add a little until you find the right angle.
+I now know that closed is at 10° for my robot head, so I will `let closed = 10`{:class="crumblevariables"}. If your robot mouth has not closed yet, you can add a little until you find the correct angle.
 
 I know that open will be less that 0°. As a start I will `let open = -30`{:class="crumblevariables"}.
 
@@ -78,7 +78,7 @@ I know that open will be less that 0°. As a start I will `let open = -30`{:clas
 
 --- /task ---
 
-HINT: These variables are acting like labels that help us to know what our servo angles are for and what they are doing but setting the variable does not tell the servo to do anything. Now we must tell the servo to move to those angles stored as variables.
+HINT: These variables act like labels that help us to know what our servo angles are for and what they are doing. But it is important to remember that the variable does not tell the servo to do anything. Now we must tell the servo to move to those angles stored as variables.
 
 --- task ---
 
