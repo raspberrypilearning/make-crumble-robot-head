@@ -6,7 +6,7 @@ Watch you fingers &mdash; it bites!
 
 ### What you will make
 
-You will make a robot head from cardboard and use a servo with a bent paper clip as a pushrod to open and close the mouth controlled by your code.
+You will make a robot head from cardboard, and use a servo with a bent paper clip as a pushrod to open and close the mouth. Your code will control the mouth's movement.
 
 --- no-print ---
 ![Completed robot head project](images/randomSequenceSelect_completedTask.gif)
