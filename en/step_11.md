@@ -58,7 +58,7 @@ Here's what the completed code should look like.
 
 ![Random sequence Selector challenge code solution](images/randomSequenceSelect_solution.png)
 
-You can play around with what the sequences are asmuch as you like.
+You can play around with what the sequences are as much as you like.
 
 How about adding a third sequence?
 
