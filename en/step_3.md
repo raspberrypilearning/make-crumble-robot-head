@@ -40,7 +40,7 @@ If you are very lucky, you may get this right first time. If not, simply adjust 
 
 + Rotate the horn to its full extent in one direction
 + Remove the horn from the rotating shaft
-+ Replace the horn to the position that you want it to be at full rotation in that direction
++ Replace the horn to the intended position at full rotation in that direction
 
 Place the servo on its side and check that you did this right by checking its full rotation points again.
 
