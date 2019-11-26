@@ -1,6 +1,6 @@
 ## Challenge: randomise your sequence
 
-You have already coded your robot mouth to open and close but the timing is fixed and the same every time. That's fine for a robot robot, but if you want to make a robot creature or person you might want it to look a little more realistic. Adding a little randomisation is a good way to fo this.
+You have already coded your robot mouth to open and close but the timing is fixed and the same every time. That's fine for a robot, but if you want to make a robot creature or person you might want it to look a little more realistic. Adding a little randomisation is a good way to fo this.
 
 Code your Crumble robot head to open and close just as you have but with a slightly random movement. Let's add a little bonus and have the mouth opening a random number of times too!
 
