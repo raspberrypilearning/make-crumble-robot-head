@@ -1,6 +1,6 @@
-## Preparing the servo
+## Prepare the servo
 
-Let's have a look at the servo and some very important preparation before we use it in the project.
+Let's have a look at the servo and some very important preparation before you use it in the project.
 
 --- task ---
 
@@ -8,7 +8,7 @@ Servos have detachable plastic arms, called 'horns', that can be fixed to the ro
 
 ![Bag of horns](images/prepareServo_horns.png)
 
-Select the horn that has a single long arm. If there are no single arm horns then you will need to adapt another horn by cutting off any additional arms.
+Select the horn that has a single long arm. If there are no single arm horns, you will need to adapt another horn by cutting off any additional arms.
 
 Place the horn on rotating shaft.
 
@@ -28,7 +28,7 @@ When the servo is lying flat on its side, you want the horn to rotate freely fro
 
 ![Horn rotation range](images/prepareServo_hornFlat1.png)
 
-And rotate freely 180° to horizontal on the other side without being able to go beyond these positions as it would start hitting the inside of your box.
+And rotate freely 180° to horizontal on the other side without being able to go beyond these positions, as it would start hitting the inside of your box.
 
 ![Horn rotation range](images/prepareServo_hornFlat2.png)
 
@@ -36,13 +36,13 @@ And rotate freely 180° to horizontal on the other side without being able to go
 
 --- task ---
 
-If you are very lucky, you'll get this right first time, but if not, simply adjust it:
+If you are very lucky, you may get this right first time. If not, simply adjust it:
 
 + Rotate the horn to its full extent in one direction
 + Remove the horn from the rotating shaft
 + Replace the horn to the position that you want it to be at full rotation in that direction
 
-Place the servo on its side and check that you did this right by checking its full rotation points again
+Place the servo on its side and check that you did this right by checking its full rotation points again.
 
 --- no-print ---
 
@@ -62,7 +62,7 @@ Your servo should rotate from horizontal to horizontal on each side.
 
 --- task ---
 
-As well as a selection of horns, servos also come with screws to fix the horns in place to prevent them working loose and falling off when the servo rotates.
+As well as a selection of horns, servos also come with screws to fix the horns. These prevent the horns working loose and falling off when the servo rotates.
 
 Once the horn is exactly where you want it, screw it in place to fix it.
 
@@ -72,4 +72,4 @@ Note: Once the servo becomes fixed inside your project, it is very hard to get t
 
 --- /task ---
 
-Now that the horn is fixed in the correct rotation position, you are ready tomake the pushrod mechanism.
+Now that the horn is fixed in the correct rotation position, you are ready to make the pushrod mechanism.
