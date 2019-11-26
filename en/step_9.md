@@ -4,8 +4,7 @@ Up until now you have been coding your servo to move from one angle to another a
 
 **Go here!... Now go here!... Now here!**
 
-You can't actually control the speed of the servo using your Crumble controller but you can come very close by making the `servo move`{:class="crumbleinputoutput"} in little steps with tiny `pauses`{:class="crumblecontrol"}
-between each step.
+You can't actually control the speed of the servo using your Crumble controller but you can come very close by making the `servo move`{:class="crumbleinputoutput"} in little steps with tiny `pauses`{:class="crumblecontrol"} between each step.
 
 --- task ---
 
