@@ -43,9 +43,9 @@ The positions of the servo and the end of the pushrod are important, so it's bes
 The measurements will be different depending on the length of your paper clip pushrod and the length of the servo horn, but the principle will stay the same.
 
 Work out where the end of the pushrod goes first:
-+ The nearer to the bottom of your robot head, the greater the range in the mouth's movement, which also means that that the servo will need to work harder. 
++ The nearer to the bottom of your robot head, the greater the range in the mouth's movement and the harder the servo will need to work. 
 
-Once the pushrod end is in place, you need to find the right distance for the servo.
+Once the pushrod end is in place, you need to find the right distance for the servo:
 + When the mouth is fully open, the servo arm should be almost fully rotated towards the front of the box.
 
 If it all goes wrong, you can always pull the bits off and try again. Let's give it a go!
@@ -90,6 +90,6 @@ Glue the servo in position so that the arm can move backwards and forwards, roug
 
 --- /task ---
 
-You can write some code to move the servo and test its position. Alternatively, you can test it manually by reaching in through the back of the robot head and moving the servo arm by hand. Be careful if you do this, as it's easy to move the servo or bend the pushrod.
+You can write some code to move the servo and test its position. Alternatively, you can test it manually by reaching into the back of the robot head and moving the servo arm by hand. Be careful if you do this, as it's easy to move the servo or bend the pushrod.
 
 ![Servo mouth manually opened](images/pushrod_servoManuallyOpened.png)
