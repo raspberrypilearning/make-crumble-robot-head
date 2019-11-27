@@ -62,7 +62,7 @@ Notice that the pushrod arm is running down the middle of the box and open mouth
 
 --- task ---
 
-Now glue the cardboard tab over the bent pushrod arm, making sure you don't cover the 90° bend.
+Now glue the cardboard tab over the bent pushrod arm. Make sure you don't cover the 90° bend.
 
 ![Pushrod arm covered](images/pushrod_armFixed.png)
 
