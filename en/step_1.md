@@ -32,7 +32,7 @@ title: What you will need
 + A Crumbliser OR jumper leads
 
 + Materials to make your robot head, e.g. a small box or cardboard
-+ A paperclip
++ A paper clip
 + Tools to make your robot head, e.g. scissors and glue or tape
 
 **Note**: A hot melt glue gun is an easy tool to fix the servo into your project.
