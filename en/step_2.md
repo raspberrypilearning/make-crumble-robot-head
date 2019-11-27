@@ -12,7 +12,7 @@ This example project uses a 6-inch wide cube box.
 
 --- task ---
 
-Take your box, decide where the face will be and mark the two side flaps to be cut off.
+Decide where the face will be on your box and mark the two side flaps to be cut off.
 
 ![The two side flaps](images/robotHead_sideFlaps.png)
 
@@ -20,7 +20,7 @@ Take your box, decide where the face will be and mark the two side flaps to be c
 
 --- task ---
 
-Cut the two side flaps off, using a knife or scissors.
+Use a knife or scissors to cut off the two side flaps.
 
 Tape or glue the top flap down. This will be the face above the mouth.
 
@@ -28,7 +28,7 @@ Tape or glue the top flap down. This will be the face above the mouth.
 
 --- /task ---
 
-Closing the back opening of the box helps it keep its shape at this point. However, some people find keeping it open makes the rest the build easier.
+Closing the back opening of the box can help it keep its shape at this point. However, some people find keeping it open makes the rest the build easier.
 
 --- task ---
 
