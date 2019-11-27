@@ -1,6 +1,6 @@
 ## The pushrod mechanism
 
-You're going to use the servo and a paperclip to make a pushrod that will open and close the cardboard flap, i.e. the mouth of your robot head.
+You're going to use the servo and a paper clip to make a pushrod that will open and close the cardboard flap, i.e. the mouth of your robot head.
 
 --- task ---
 
