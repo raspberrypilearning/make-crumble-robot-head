@@ -1,6 +1,6 @@
 ## Find the servo angles for open and closed
 
-The first thing you need to do is to find the angle at which the servo holds the mouth open and closed.
+First you need to find the angle at which the servo holds the mouth open and closed.
 
 We'll start by making `variables`{:class="crumblevariables"} for 'open' and 'closed'. This is not totally necessary but will help to keep our code clear.
 
@@ -14,7 +14,7 @@ Create another `variable`{:class="crumblevariables"} and name it 'closed'.
 
 --- /task ---
 
-The servo has an angle range of 180°. For many devices this means you can set the servo anywhere from 0° to 180° but with Crumble, 0° is the midpoint and you can set your servo from -90° to 90°.
+The servo has an angle range of 180°. For many devices this means you can set the servo anywhere from 0° to 180°, but with Crumble, 0° is the midpoint and you can set your servo from -90° to 90°.
 
 Let's start by checking what effect 0° has on the robot mouth.
 
@@ -44,9 +44,9 @@ Run you code and check the position of the robot mouth.
 
 --- /print-only ---
 
-It makes sense that with the servo at 0° that the mouth would be half-open but you can see from this example that it doesn't always work out that way. My robot mouth is almost completely closed!
+It would make sense that with the servo at 0°, the mouth would be half-open. But as you can see from this example, it doesn't always work out that way. My robot mouth is almost completely closed!
 
-From this we can see that fully closed will only mean a small change in angle but we don't know which direction yet.
+We can see that fully closed will only mean a small change in angle, but we don't know which direction yet.
 
 --- task ---
 
@@ -78,7 +78,7 @@ I know that open will be less that 0°. As a start I will `let open = -30`{:clas
 
 --- /task ---
 
-HINT: These variables act like labels that help us to know what our servo angles are for and what they are doing. But it is important to remember that the variable does not tell the servo to do anything. Now we must tell the servo to move to those angles stored as variables.
+HINT: These variables act like labels to help us know what our servo angles are for and what they are doing. But it is important to remember that the variable does not tell the servo to do anything. Now we must tell the servo to move to those angles stored as variables.
 
 --- task ---
 
