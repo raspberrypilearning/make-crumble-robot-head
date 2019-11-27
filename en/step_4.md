@@ -4,19 +4,19 @@ You're going to use the servo and a paperclip to make a pushrod that will open a
 
 --- task ---
 
-Get a paperclip and unbend it so that you have a 180° loop at one end and a 90° bend at the other.
+Get a paper clip and unbend it so that you have a 180° loop at one end and a 90° bend at the other.
 
 --- no-print ---
 
 Your servo should rotate from horizontal to horizontal on each side.
 
-![Paperclip pushrod](images/pushrod_paperclip.gif)
+![Paper clip pushrod](images/pushrod_paperclip.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![Paperclip pushrod](images/pushrod_paperclip.png)
+![Paper clip pushrod](images/pushrod_paperclip.png)
 
 --- /print-only ---
 
@@ -24,7 +24,7 @@ Your servo should rotate from horizontal to horizontal on each side.
 
 --- task ---
 
-Thread the loop end of your paperclip pushrod through the end small hole in the servo's horn.
+Thread the loop end of your paper clip pushrod through the end small hole in the servo's horn.
 
 ![Paperclip pushrod and servo](images/pushrod_pushrodAndServo.png)
 
@@ -40,7 +40,7 @@ Before you fix your pushrod mechanism into the robot head box, you will need a s
 
 The positions of the servo and the end of the pushrod are important, so it's best if you understand where they need to go.
 
-The measurements will be different depending on the length of your paperclip pushrod and the length of the servo horn, but the principle will stay the same.
+The measurements will be different depending on the length of your paper clip pushrod and the length of the servo horn, but the principle will stay the same.
 
 Work out where the end of the pushrod goes first:
 + The nearer to the bottom of your robot head, the greater the range in the mouth's movement, which also means that that the servo will need to work harder. 
