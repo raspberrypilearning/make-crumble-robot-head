@@ -20,7 +20,7 @@ Place the horn on the rotating shaft.
 
 Test the range of the servo by gently moving the horn as far as it will go in each direction. Don't force it.
 
-You will probably find that the servo arm can rotate past the flat position in one direction but not reach the flat position in the other.
+You will probably find that the servo arm can rotate past the flat position in one direction, but not reach the flat position in the other.
 
 ![Horn rotation beyond flat position](images/prepareServo_hornRotationBeyondFlat.png)
 
