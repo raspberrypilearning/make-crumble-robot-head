@@ -12,7 +12,7 @@ Start with the code that you wrote in 'Finding servo angles'.
 
 The first section of this code sets the variable values, which direct the angle rotation of the servo. Then, the second section gives the servo a sequence of rotations and pauses. 
 
-We will keep the first section exactly as it is and just change the sequence.
+You will keep the first section exactly as it is and just change the sequence.
 
 ![First and second code sections](images/sequence_sections1and2.png)
 
@@ -99,7 +99,7 @@ Add a `let delay = 500`{:class="crumblevariables"} block to the start of your co
 
 --- task ---
 
-We will be setting the `wait`{:class="crumblecontrol"} time in milliseconds now, so replace each of the three `wait 0.1 seconds`{:class="crumblecontrol"} blocks with a `wait 100 milliseconds`{:class="crumblecontrol"} block.
+You will be setting the `wait`{:class="crumblecontrol"} time in milliseconds now, so replace each of the three `wait 0.1 seconds`{:class="crumblecontrol"} blocks with a `wait 100 milliseconds`{:class="crumblecontrol"} block.
 
 Place a `delay`{:class="crumblevariables"} variable block in each `wait 100 milliseconds`{:class="crumblecontrol"} block.
 
@@ -107,7 +107,7 @@ Place a `delay`{:class="crumblevariables"} variable block in each `wait 100 mill
 
 --- /task ---
 
-Let's see what we have done. Time to run your code.
+Let's see what you've done. Time to run your code.
 
 --- no-print ---
 
