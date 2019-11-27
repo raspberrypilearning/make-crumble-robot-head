@@ -2,7 +2,7 @@
 
 First you need to find the angle at which the servo holds the mouth open and closed.
 
-We'll start by making `variables`{:class="crumblevariables"} for 'open' and 'closed'. This is not totally necessary but will help to keep our code clear.
+Start by making `variables`{:class="crumblevariables"} for 'open' and 'closed'. This is not totally necessary but will help to keep your code clear.
 
 --- task ---
 
@@ -46,7 +46,7 @@ Run you code and check the position of the robot mouth.
 
 It would make sense that with the servo at 0°, the mouth would be half-open. But as you can see from this example, it doesn't always work out that way. My robot mouth is almost completely closed!
 
-We can see that fully closed will only mean a small change in angle, but we don't know which direction yet.
+I can see that fully closed will only mean a small change in angle, but I don't know which direction yet.
 
 --- task ---
 
@@ -54,7 +54,7 @@ Change the angle in the `servo A 0 degrees`{:class="crumbleinputoutput"} block. 
 
 ![Servo A to 10°](images/servoAngles_servoTo10Degrees.png)
 
-Run you code and note the change.
+Run your code and note the change.
 
 --- /task ---
 
@@ -78,7 +78,7 @@ I know that open will be less that 0°. As a start I will `let open = -30`{:clas
 
 --- /task ---
 
-HINT: These variables act like labels to help us know what our servo angles are for and what they are doing. But it is important to remember that the variable does not tell the servo to do anything. Now we must tell the servo to move to those angles stored as variables.
+HINT: These variables act like labels to help you know what the servo angles are for and what they are doing. But it is important to remember that the variable does not tell the servo to do anything. Now you must tell the servo to move to those angles stored as variables.
 
 --- task ---
 
