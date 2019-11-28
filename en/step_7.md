@@ -125,7 +125,7 @@ A `500 milliseconds`{:class="crumblecontrol"} `delay`{:class="crumblevariables"}
 
 To adjust the `wait`{:class="crumblecontrol"} time now you can simply change the `delay`{:class="crumblevariables"} variable value at the start of your code!
 
-I tried 600, 550, 450, 400 and 300 milliseconds. To my surprise, I liked 300 milliseconds the best as it did not let the mouth open or close fully and looked very natural.
+I tried 600, 550, 450, 400 and 300 milliseconds. To my surprise, I liked 300 milliseconds the best as it did not let the mouth completely open or close and looked very natural.
 
 --- no-print ---
 
@@ -135,7 +135,7 @@ I tried 600, 550, 450, 400 and 300 milliseconds. To my surprise, I liked 300 mil
 
 --- task ---
 
-Now it's your turn to find your favourite timing. Alter the `delay`{:class="crumblevariables"} variable block amount until you find the timing that works best for you
+Now it's your turn to find your favourite timing. Alter the `delay`{:class="crumblevariables"} variable block amount until you find the timing that works best for you.
 
 ![Alter the value of the delay variable](images/sequence_alterDelayVariable.png)
 
