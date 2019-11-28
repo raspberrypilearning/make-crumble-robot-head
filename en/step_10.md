@@ -1,10 +1,10 @@
 ## Multiple sequences
 
-Things are getting more complex as we go but we have still not written a program containing more than one sequence.
+Things are getting more complex, but now it's time to write a program containing multiple sequences. 
 
 Let's try putting two sequences together!
 
-We'll start off with your slow move sequence from the last section.
+Start with your slow move sequence from the last section.
 
 --- task ---
 
@@ -32,7 +32,7 @@ NOTE: Remember that there are two `repeat`{:class="crumblecontrol"} values to ch
 
 --- /task ---
 
-So we already have one sequence in place and we just need to add a separate, different sequence below it.
+So you already have one sequence in place and just need to add a separate, different sequence below it.
 
 I'm going to add a full speed, random delay sequence similar to one you coded earlier but you could make up a different sequence you like.
 
@@ -52,7 +52,7 @@ Inside the new `repeat loop`{:class="crumblecontrol"}, set `servo A`{:class="cru
 
 --- /task ---
 
-Since the `wait`{:class="crumblecontrol"} is only `3 to 6`{:class="crumbleoperators"} milliseconds, it is unlikely that the servo will have time to reach the `open`{:class="crumblevariables"} position. The shorter the random value, the smaller the angle of rotation andthe quicker the movement appears.
+Since the `wait`{:class="crumblecontrol"} is only `3 to 6`{:class="crumbleoperators"} milliseconds, it is unlikely that the servo will have time to reach the `open`{:class="crumblevariables"} position. The shorter the random value, the smaller the angle of rotation and the quicker the movement appears.
 
 --- task ---
 
@@ -64,7 +64,7 @@ Add the duplicated blocks to the `loop`{:class="crumblecontrol"}.
 
 --- /task ---
 
-You could just put the two sequences together but let's take it a step further and repeat both sequences.
+You could just put the two sequences together, but let's take it a step further and repeat both sequences.
 
 --- task ---
 
