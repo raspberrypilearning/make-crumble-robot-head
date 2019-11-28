@@ -1,6 +1,6 @@
 ## Challenge: random sequence selector
 
-You have already coded your robot mouth to open and close with two different sequences but currently they still run in a predictable, set order.
+You have already coded your robot mouth to open and close with two different sequences. Currently they still run in a predictable, set order.
 
 ![Two sequences in code](images/randomSequenceSelect_twoSequences.png)
 
