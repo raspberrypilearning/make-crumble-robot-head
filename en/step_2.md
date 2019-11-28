@@ -28,7 +28,7 @@ Tape or glue the top flap down. This will be the face above the mouth.
 
 --- /task ---
 
-Closing the back opening of the box helps it keep its shape at this point. However, some people find keeping it open makes the rest of the build easier.
+Closing the back opening of the box can help it keep its shape at this point. However, some people find keeping it open makes the rest of the build easier.
 
 --- task ---
 
