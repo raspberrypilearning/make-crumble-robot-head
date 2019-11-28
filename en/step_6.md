@@ -22,7 +22,7 @@ Let's start by checking what effect 0° has on the robot mouth.
 
 Grab a `program start`{:class="crumblebasic"} block and add a `servo A 0 degrees`{:class="crumbleinputoutput"} block from the `Input/Output`{:class="crumbleinputoutput"} block palette.
 
-The example here uses the Crumble 'A' terminal, but if you connected your servo to a different terminal you will need to change the `A`{:class="crumbleinputoutput"} to whatever terminal you used.
+The example here uses the Crumble 'A' terminal. If you connected your servo to a different terminal, you will need to change the `A`{:class="crumbleinputoutput"} to whatever terminal you used.
 
 To save batteries, and in case your code is telling a servo to be in a position it doesn't want to be in, add a delay and turn the servo off.
 
@@ -50,7 +50,7 @@ I can see that fully closed will only mean a small change in angle, but I don't 
 
 --- task ---
 
-Change the angle in the `servo A 0 degrees`{:class="crumbleinputoutput"} block. I don't want the mouth to go completely into the robot face so for my robot head, adding 10 seems like a good idea.
+Change the angle in the `servo A 0 degrees`{:class="crumbleinputoutput"} block. I don't want the mouth to go completely into the robot face. So for my robot head, adding 10 seems like a good idea.
 
 ![Servo A to 10°](images/servoAngles_servoTo10Degrees.png)
 
