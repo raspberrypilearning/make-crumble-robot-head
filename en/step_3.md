@@ -4,11 +4,11 @@ Let's have a look at the servo and some important preparations to make before yo
 
 --- task ---
 
-Servos have detachable plastic arms, called 'horns', that can be fixed to the rotating shaft. The horns come in a variety of shapes for different uses. Most servos come with a small bag of different horns.
+Servos have detachable plastic arms, called 'horns', these are fixed to the rotating shaft. The horns come in a variety of shapes for different uses. Most servos come with a small bag of different horns.
 
 ![Bag of horns](images/prepareServo_horns.png)
 
-Select the horn that has a single long arm. If there are no single arm horns, you will need to adapt another horn by cutting off any additional arms.
+Select the horn that has a single long arm. If there are no single arm horns, you need to adapt another horn by cutting off any additional arms.
 
 Place the horn on the rotating shaft.
 
@@ -18,9 +18,9 @@ Place the horn on the rotating shaft.
 
 --- task ---
 
-Test the range of the servo by gently moving the horn as far as it will go in each direction. Don't force it.
+Test the range of the servo by gently moving the horn to its limit in each direction. Don't force it.
 
-You will probably find that the servo arm can rotate past the flat position in one direction, but not reach the flat position in the other.
+The servo arm can rotate past the flat position in one direction, but not reach the flat position in the other.
 
 ![Horn rotation beyond flat position](images/prepareServo_hornRotationBeyondFlat.png)
 
