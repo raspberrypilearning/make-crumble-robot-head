@@ -6,7 +6,7 @@ Code your Crumble robot head to open and close just as you have but with a sligh
 
 Don't start from the beginning, just alter the code you had from the open and close sequence.
 
-NOTE: You could achieve this by randomising the `open`{:class="crumblevariables"} and `closed`{:class="crumblevariables"} variables, but in this case you will randomise the `wait`{:class="crumblecontrol"} time.
+NOTE: You could achieve this by randomising the `open`{:class="crumblevariables"} and `closed`{:class="crumblevariables"} variables, but in this case let's randomise the `wait`{:class="crumblecontrol"} time.
 
 --- no-print ---
 
@@ -24,7 +24,7 @@ NOTE: You could achieve this by randomising the `open`{:class="crumblevariables"
 
 --- hint ---
 
-When the `program starts`{:class="crumblebasic"}, you should:
+When the `program starts`{:class="crumblebasic"}:
 + `Set the closed angle value`{:class="crumblevariables"} and the `open angle value`{:class="crumblevariables"} 
 + Set `servo A`{:class="crumbleinputoutput"} to `closed`{:class="crumblevariables"}
 + `Wait`{:class="crumblecontrol"} for half a second
@@ -35,13 +35,13 @@ When the `program starts`{:class="crumblebasic"}, you should:
 + `Wait`{:class="crumblecontrol"} for another `100 to 400`{:class="crumbleoperators"} milliseconds
 + Finally, after the `repeat loop`{:class="crumblecontrol"}, turn `servo A OFF`{:class="crumbleinputoutput"}
 
-Most of the code is the same as before. You will need to remove some `variable`{:class="crumblevariables"} blocks and add a few `random number`{:class="crumbleoperators"} blocks.
+Most of the code is the same as before. You need to remove some `variable`{:class="crumblevariables"} blocks and add a few `random number`{:class="crumbleoperators"} blocks.
 
 --- /hint ---
 
 --- hint ---
 
-You will need to remove the `delay variable`{:class="crumblevariables"} blocks and add the `random number`{:class="crumbleoperators"} blocks.
+You need to remove the `delay variable`{:class="crumblevariables"} blocks and add the `random number`{:class="crumbleoperators"} blocks.
 
 ![Random sequence challenge code parsons problem](images/randomSequence_parsons.png)
 
@@ -53,7 +53,7 @@ I have also removed the `halfway variable`{:class="crumblevariables"} block as i
 
 --- hint ---
 
-The code below works for my robot head's mouth. You will probably have different `open`{:class="crumblevariables"} and `closed`{:class="crumblevariables"} angles. The range of `random numbers`{:class="crumbleoperators"} you choose for your robot is also dependent on your robot and your choice.
+The code below works for my robot head's mouth. Your `open`{:class="crumblevariables"} and `closed`{:class="crumblevariables"} angles may be different. The range of `random numbers`{:class="crumbleoperators"} you choose for your robot is also dependent on your robot and your choice.
 
 ![Random sequence challenge code solution](images/randomSequence_solution.png)
 
