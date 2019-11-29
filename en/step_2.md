@@ -1,6 +1,6 @@
 ## The robot head
 
-The first step is to make your robot head. You can use a small cardboard box or make a box shape from flat cardboard, using a 3D shape net.
+The first step is to make your robot head. Use a small cardboard box or make your own from a 3D shape net and flat cardboard.
 
 ![3D net of a cube robot head](images/robotHead_3DNet.png)
 
