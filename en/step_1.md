@@ -6,9 +6,9 @@ Watch you fingers &mdash; it bites!
 
 ### What you will make
 
-A robot head out of cardbord. 
-A servo with a bent paper clip as a pushrod to open and close the mouth. 
-Then, write code to control the mouth's movement.
++ A robot head out of cardbord. 
++ A servo with a bent paper clip as a pushrod to open and close the mouth. 
++ Code to control the mouth's movement.
 
 --- no-print ---
 ![Completed robot head project](images/randomSequenceSelect_completedTask.gif)
