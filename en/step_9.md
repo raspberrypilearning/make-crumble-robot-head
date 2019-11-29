@@ -26,9 +26,9 @@ Set `delay`{:class="crumblevariables"} to `50`{:class="crumblevariables"} and `a
 
 `Open`{:class="crumblevariables"} and `closed`{:class="crumblevariables"} you have used before and know that they are used to specify the angle at which the mouth is fully open and fully closed.
 
-`Delay`{:class="crumblevariables"} will be the amount of milliseconds between each small step that the servo makes of its overall rotation.
+`Delay`{:class="crumblevariables"} means the amount of milliseconds between each small step that the servo makes of its overall rotation.
 
-`Angle`{:class="crumblevariables"} will be the variable used to tell the servo what angle to move to next. `Angle`{:class="crumblevariables"} will start as `closed`{:class="crumblevariables"}, which in my example robot is 10°, but will keep increasing (or decreasing) to make the servo move to the next small step. As the `angle`{:class="crumblevariables"} variable changes, your servo's rotation position will change too.
+`Angle`{:class="crumblevariables"} refers to the variable used to tell the servo what angle to move to next. `Angle`{:class="crumblevariables"} starts as `closed`{:class="crumblevariables"}, which in my example robot is 10°, but keep increasing (or decreasing) to make the servo move to the next small step. As the `angle`{:class="crumblevariables"} variable changes, your servo's rotation position changes too.
 
 --- task ---
 
