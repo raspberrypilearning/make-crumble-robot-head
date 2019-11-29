@@ -12,7 +12,7 @@ Start with the code that you wrote in 'Find servo angles'.
 
 The first section of this code sets the variable values, which direct the angle rotation of the servo. Then, the second section gives the servo a sequence of rotations and pauses. 
 
-You will keep the first section exactly as it is and just change the sequence.
+Keep the first section exactly as it is and just change the sequence.
 
 ![First and second code sections](images/sequence_sections1and2.png)
 
@@ -54,7 +54,7 @@ Run your code.
 
 --- /task ---
 
-The mouth will open and close three times and then stop.
+This causes the mouth to open and close three times and then stop.
 
 --- no-print ---
 
@@ -68,7 +68,7 @@ The mouth will open and close three times and then stop.
 
 --- /print-only ---
 
-The amount of time the servo needs to open and close will vary depending on a range of factors and conditions:
+The amount of time the servo needs to open and close depends on a range of factors and conditions:
 + The angle of rotation between open and closed
 + The make and model of the servo
 + The condition of the servo
@@ -99,7 +99,7 @@ Add a `let delay = 500`{:class="crumblevariables"} block to the start of your co
 
 --- task ---
 
-You will be setting the `wait`{:class="crumblecontrol"} time in milliseconds now, so replace each of the three `wait 0.1 seconds`{:class="crumblecontrol"} blocks with a `wait 100 milliseconds`{:class="crumblecontrol"} block.
+Set the `wait`{:class="crumblecontrol"} time in milliseconds now, so replace each of the three `wait 0.1 seconds`{:class="crumblecontrol"} blocks with a `wait 100 milliseconds`{:class="crumblecontrol"} block.
 
 Place a `delay`{:class="crumblevariables"} variable block in each `wait 100 milliseconds`{:class="crumblecontrol"} block.
 
