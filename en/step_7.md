@@ -4,7 +4,7 @@ You've got your robot head and you know how to set the servo to make the mouth o
 
 --- task ---
 
-Start with the code that you wrote in 'Finding servo angles'.
+Start with the code that you wrote in 'Find servo angles'.
 
 ![Starting code](images/servoAngles_setHalfwayVariable.png)
 
