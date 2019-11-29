@@ -24,7 +24,7 @@ Move the end block that turns the `servo OFF`{:class="crumbleinputoutput"} away 
 
 --- task ---
 
-Adjust the 'slow moves' sequence by changing the `delay`{:class="crumblevariables"} to 40 and the number of `repeats`{:class="crumblecontrol"} to 30. This means it will move a little quicker and will only open a third of the amount it did before.
+Adjust the 'slow moves' sequence by changing the `delay`{:class="crumblevariables"} to 40 and the number of `repeats`{:class="crumblecontrol"} to 30. This means it moves a little quicker and only opens a third of the amount it did before.
 
 NOTE: Remember that there are two `repeat`{:class="crumblecontrol"} values to change!
 
@@ -52,7 +52,7 @@ Inside the new `repeat loop`{:class="crumblecontrol"}, set `servo A`{:class="cru
 
 --- /task ---
 
-Since the `wait`{:class="crumblecontrol"} is only `3 to 6`{:class="crumbleoperators"} milliseconds, it is unlikely that the servo will have time to reach the `open`{:class="crumblevariables"} position. The shorter the random value, the smaller the angle of rotation and the quicker the movement appears.
+Since the `wait`{:class="crumblecontrol"} is only `3 to 6`{:class="crumbleoperators"} milliseconds, it is unlikely that the servo has time to reach the `open`{:class="crumblevariables"} position. The shorter the random value, the smaller the angle of rotation and the quicker the movement appears.
 
 --- task ---
 
