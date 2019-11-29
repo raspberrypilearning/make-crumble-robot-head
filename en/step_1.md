@@ -8,7 +8,7 @@ Watch you fingers &mdash; it bites!
 
 + A robot head out of cardbord 
 + A pushrod from a servo and a bent paper clip (this will open and close the mouth) 
-+ Code to control the mouth's movement
++ Write code to control the mouth's movement
 
 --- no-print ---
 ![Completed robot head project](images/randomSequenceSelect_completedTask.gif)
