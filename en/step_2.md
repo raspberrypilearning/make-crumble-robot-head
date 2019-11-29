@@ -22,7 +22,7 @@ Decide where the face will be on your box and mark the two side flaps to be cut 
 
 Use a knife or scissors to cut off the two side flaps.
 
-Tape or glue the top flap down. This will be the face above the mouth.
+Tape or glue the top flap down to make the face above the mouth.
 
 ![Upper face fixed in place](images/robotHead_upperFace.png)
 
