@@ -3,14 +3,14 @@ title: make-crumble-robot-head
 hero_image: images/banner.png
 description: make-crumble-robot-head description
 version: 4
-listed: false
-copyedit: false
+listed: true
+copyedit: true
 last_tested: '2019-06-26'
 steps:
 - title: Introduction
-  completion: engaged
 - title: The robot head
 - title: Prepare the servo
+  completion: engaged
 - title: The pushrod mechanism
 - title: Wire servo to Crumble
 - title: Find servo angles
@@ -18,8 +18,8 @@ steps:
 - title: 'Challenge: randomise your sequence'
   challenge: true
 - title: Slow moves
-  completion: internal
 - title: Multiple sequences
+  completion: internal
 - title: 'Challenge: random sequence selector'
   challenge: true
 - title: What next?
