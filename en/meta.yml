@@ -10,7 +10,8 @@ steps:
 - title: Introduction
 - title: The robot head
 - title: Prepare the servo
-  completion: engaged
+  completion:
+  - engaged
 - title: The pushrod mechanism
 - title: Wire servo to Crumble
 - title: Find servo angles
@@ -19,7 +20,8 @@ steps:
   challenge: true
 - title: Slow moves
 - title: Multiple sequences
-  completion: internal
+  completion:
+  - internal
 - title: 'Challenge: random sequence selector'
   challenge: true
 - title: What next?
